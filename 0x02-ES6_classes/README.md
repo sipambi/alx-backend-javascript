@@ -1,1 +1,1 @@
-## E6 Classes
+# Classes JS
